@@ -6,7 +6,6 @@ import {
   getProductQuery,
   getProductsQuery,
 } from '../queries/queries';
-import './App.css';
 import './style.css';
 
 let count;
